@@ -1,0 +1,83 @@
+# The URL the site will be built for
+base_url = "https://example.com"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = false
+
+[extra]
+# Put all your custom variables here
+
+# Author of the page
+author = "Mark Huasong Meng"
+author_chinese = "/img/chn-chars.png"
+
+# Role of the author
+role = "PhD Candidate"
+
+# Organizations of the author
+organizations = [ { name = "School of Computing, National University of Singapore" } ]
+
+# Protrait photo
+image = "/img/profile.jpg"
+
+# Whether the navbar should be screen wide or page wide
+wide_navbar = false
+
+# Social icons that will appear under your profile box
+social_icons = [
+{icon="fa-envelope", icon_pack="fa", link="mailto:huasong.meng@u.nus.edu"},
+{icon="ai-google-scholar", icon_pack="ai", link="https://scholar.google.com.sg/citations?user=Lcjd0zwAAAAJ"},
+{icon="fa-github", icon_pack="fa-brands", link="https://github.com/mark-h-meng" },
+{icon="fa-orcid", icon_pack="fa-brands", link="https://orcid.org/0000-0003-1039-2151" },
+]
+
+# Your interests
+interests = [
+    { label = "Photography"},
+    { label = "Travel"},
+    { label = "Cooking"},
+    { label = "History"},
+]
+
+# Your diplomas
+education = [
+{course = "Ph.D. in Computer Science", institution = "National University of Singapore, Singapore", year = "2019-2023 (Expected)", description = "Fully funded by A*STAR ACIS scholarship"},
+{course = "M.Comp. in Infocomm Security", institution = "National University of Singapore, Singapore", year = "2015-2016"},
+{course = "B.Eng. (Hons) in Computer Science", institution = "Nanyang Technological University, Singapore", year = "2010-2014", description = "Fully funded by MOE SM2 scholarship"}
+]
+
+# Your work experience
+career = [
+{employer = "Agency for Science, Technology and Research (A*STAR), Singapore", year = "2016-Present (on leave)", title = "Research Engineer"},
+{employer = "NCS Pte Ltd, Singapore", year = "2016", title = "Software Analyst"},
+{employer = "Gemalto (Thales) Pte Ltd, Singapore", year = "2014-2015", title = "Software Engineer"},
+{employer = "Autodesk Asia Pte Ltd, Singapore", year = "2012", title = "Software Engineer (Intern)"},
+]
+
+# Your languages
+languageskills = [
+  {language = "English", proficiency = "Proficient"},
+  {language = "Chinese", proficiency = "Proficient in Mandarin, Conversarional in Cantonese"},
+  {language = "Malay", proficiency = "Elementary"}
+]
+
+# The ways people can contact you
+# contact_links = [
+#   {icon="fa-envelope", icon_pack="fa", name = "Email me", link="mailto:email@example.com"},
+#   {icon = "fa-twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
+#   {icon = "fa-skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
+#   {icon = "fa-keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
+#   {icon = "fa-comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://zola.discourse.group/"},
+#   {icon = "fa-discord", icon_pack = "fab", name = "John Doe #9999"},
+# ]
+
+# To download your CV files
+cvlink = "cv-mark-h-meng.pdf"
