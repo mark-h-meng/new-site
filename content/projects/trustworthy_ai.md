@@ -7,6 +7,7 @@ description = "A survey on adversarial robustness of deep neural network and sev
 cover = "/projects/trustworthy-ai-cover.png"
 highlight = [
     {text = "Download the ", ref = "survey", text_after = " paper", link = "../publications/attachments/j2.pdf"},
-    {text = "Checkout the ", ref = "tool", text_after = " of Paoding", link = "https://pypi.org/project/paoding-dl/"},
+    {text = "Checkout the ", ref = "tool", text_after = " of Paoding-DL", link = "https://pypi.org/project/paoding-dl/"},
+    {text = "Read the Paoding ", ref = "paper", text_after = "", link = "../publications/attachments/c9.pdf"},
 ]
 +++

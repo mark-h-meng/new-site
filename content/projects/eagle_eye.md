@@ -1,5 +1,5 @@
 +++
-title = "EagleEye: Forensic Analysis for Android Devices and Apps"
+title = "EagleEye: Forensic Analysis for Android Devices and Apps, Exploitation Study, and Priviledge Escalation"
 date = 2017-10-01
 
 [extra]
@@ -8,5 +8,6 @@ cover = "/projects/eagleeye-cover.png"
 highlight = [
     {text = "Download the ", ref = "survey", text_after = " paper", link = "../publications/attachments/j1.pdf"},
     {text = "Download the obfuscation ", ref = "paper", text_after = "", link = "../publications/attachments/c2.pdf"},
+    {text = "", ref = "Paper", text_after = " of privilege escalation", link = "../publications/attachments/c4.pdf"},
 ]
 +++
