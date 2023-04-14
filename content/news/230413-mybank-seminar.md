@@ -3,5 +3,5 @@ title = "I am honoured to be invited by the data and mobile security team of MyB
 date = 2023-04-14
 
 [extra]
-category = "talk"
+category = "other"
 +++
