@@ -8,4 +8,5 @@ page_template = "blog-page.html"
 author = ""
 target = ""
 pdf = ""
+doi = ""
 +++
