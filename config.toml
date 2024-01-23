@@ -49,14 +49,14 @@ interests = [
 
 # Your diplomas
 education = [
-{course = "Ph.D. in Computer Science", institution = "National University of Singapore, Singapore", year = "2019-2023 (Expected)", description = "Fully funded by A*STAR ACIS scholarship"},
+{course = "Ph.D. in Computer Science", institution = "National University of Singapore, Singapore", year = "2019-2024", description = "Fully funded by A*STAR ACIS scholarship"},
 {course = "M.Comp. in Infocomm Security", institution = "National University of Singapore, Singapore", year = "2015-2016"},
 {course = "B.Eng. (Hons) in Computer Science", institution = "Nanyang Technological University, Singapore", year = "2010-2014", description = "Fully funded by MOE SM2 scholarship"}
 ]
 
 # Your work experience
 career = [
-{employer = "Agency for Science, Technology and Research (A*STAR), Singapore", year = "2016-Present (on leave)", title = "Research Engineer"},
+{employer = "Agency for Science, Technology and Research (A*STAR), Singapore", year = "2016-Present", title = "Research Engineer / Research Scientist"},
 {employer = "NCS Pte Ltd, Singapore", year = "2016", title = "Software Analyst"},
 {employer = "Gemalto (Thales) Pte Ltd, Singapore", year = "2014-2015", title = "Software Engineer"},
 {employer = "Autodesk Asia Pte Ltd, Singapore", year = "2012", title = "Software Engineer (Intern)"},
