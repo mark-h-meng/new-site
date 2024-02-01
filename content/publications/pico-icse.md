@@ -5,6 +5,6 @@ date = 2024-04-16
 [extra]
 author = "Fuman Xie, Chuan Yan, Mark Huasong Meng, Shaoming Teng, Yanjun Zhang, and Guangdong Bai"
 target = "The 46th International Conference on Software Engineering (ICSE), 2024."
-pdf = ""
+pdf = "attachments/xie2024are.pdf"
 doi = ""
 +++
