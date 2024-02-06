@@ -7,7 +7,7 @@ description = "An one-stop solution to explore user-unresettable identifiers (UU
 cover = "/projects/u2i2-cover.png"
 highlight = [
     {text = "Visit the ", ref = "website", text_after = "", link = "https://uq-trust-lab.github.io/u2i2/"},
-    {text = "Download the ", ref = "paper", text_after = "", link = "../publications/attachments/c7.pdf"},
+    {text = "Download the ", ref = "paper", text_after = "", link = "../publications/attachments/meng2023post.pdf"},
     {text = "Checkout the ", ref = "code", text_after = "", link = "https://uq-trust-lab.github.io/u2i2/toolkit/"},
 ]
 +++
