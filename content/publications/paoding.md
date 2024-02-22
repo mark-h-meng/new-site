@@ -7,5 +7,5 @@ author = "Mark Huasong Meng, Guangdong Bai, Sin Gee Teo and Jin Song Dong"
 target = "The 27th International Conference on Engineering of Complex Computer Systems (ICECCS 2023)."
 pdf = "attachments/meng2023supervised.pdf"
 doi = "https://doi.org/10.1109/ICECCS59891.2023.00013"
-slides = "attachments/meng2023supervised_slides.pdf"
+slides = "slides/meng2023supervised_slides.pdf"
 +++
