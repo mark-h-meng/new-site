@@ -7,4 +7,5 @@ author = "Mark Huasong Meng, Sin Gee Teo, Guangdong Bai, Kailong Wang, and Jin S
 target = "Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2023."
 pdf = "attachments/meng2023enhancing.pdf"
 doi = "https://doi.org/10.1007/978-3-031-33377-4_34"
+slides = "attachments/meng2023enhancing_slides.pdf"
 +++

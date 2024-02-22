@@ -53,7 +53,11 @@
           {% if page.extra.doi %}
           <a class="icon" href="{{ page.extra.doi }}" target=”_blank”>
             <i class="ai ai-doi" style="color:#666666;"></i>
-            
+          </a>
+          {% endif %}
+          {% if page.extra.slides %}
+          <a class="icon" href="{{ page.extra.slides }}" target=”_blank”>
+            <i class="fa-solid fa-person-chalkboard" style="color:#666666;"></i>
           </a>
           {% endif %}
         </p>
