@@ -20,10 +20,10 @@ author = "Mark Huasong Meng"
 author_chinese = "/img/chn-chars.png"
 
 # Role of the author
-role = "PhD Candidate"
+role = "Research Scientist and PhD Candidate (Viva Pending)"
 
 # Organizations of the author
-organizations = [ { name = "School of Computing, National University of Singapore" } ]
+organizations = [ { name = "Institute for Infocomm Research, A*STAR Singapore" } ]
 
 # Protrait photo
 image = "/img/profile.jpg"
