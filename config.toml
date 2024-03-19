@@ -33,7 +33,7 @@ wide_navbar = false
 
 # Social icons that will appear under your profile box
 social_icons = [
-{icon="fa-envelope", icon_pack="fa", link="mailto:huasong.meng@u.nus.edu"},
+{icon="fa-envelope", icon_pack="fa", link="mailto:menghs@i2r.a-star.edu.sg"},
 {icon="ai-google-scholar", icon_pack="ai", link="https://scholar.google.com.sg/citations?user=Lcjd0zwAAAAJ"},
 {icon="fa-github", icon_pack="fa-brands", link="https://github.com/mark-h-meng" },
 {icon="fa-orcid", icon_pack="fa-brands", link="https://orcid.org/0000-0003-1039-2151" },
@@ -56,7 +56,7 @@ education = [
 
 # Your work experience
 career = [
-{employer = "Agency for Science, Technology and Research (A*STAR), Singapore", year = "2016-Present", title = "Research Engineer / Research Scientist"},
+{employer = "Agency for Science, Technology and Research (A*STAR), Singapore", year = "2016-Present", title = "Senior Research Engineer / Research Scientist"},
 {employer = "NCS Pte Ltd, Singapore", year = "2016", title = "Software Analyst"},
 {employer = "Gemalto (Thales) Pte Ltd, Singapore", year = "2014-2015", title = "Software Engineer"},
 {employer = "Autodesk Asia Pte Ltd, Singapore", year = "2012", title = "Software Engineer (Intern)"},
