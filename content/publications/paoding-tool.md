@@ -5,7 +5,7 @@ date = 2024-03-25
 [extra]
 author = "Mark Huasong Meng, Hao Guan, Liuhuo Wan, Sin Gee Teo, Guangdong Bai and Jin Song Dong"
 target = "2024 IEEE Conference on Artificial Intelligence (IEEE CAI), Short Paper."
-pdf = ""
+pdf = "attachments/meng2024paoding.pdf"
 doi = ""
 slides = ""
 +++
