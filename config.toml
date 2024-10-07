@@ -56,7 +56,8 @@ education = [
 
 # Your work experience
 career = [
-{employer = "Agency for Science, Technology and Research (A*STAR), Singapore", year = "2016-Present", title = "Senior Research Engineer / Research Scientist"},
+{employer = "Technical University of Munich, Germany", year = "2024-Present", title = "Postdoctoral Researcher"},
+{employer = "Agency for Science, Technology and Research (A*STAR), Singapore", year = "2016-2024", title = "Senior Research Engineer / Research Scientist"},
 {employer = "NCS Pte Ltd, Singapore", year = "2016", title = "Software Analyst"},
 {employer = "Gemalto (Thales) Pte Ltd, Singapore", year = "2014-2015", title = "Software Engineer"},
 {employer = "Autodesk Asia Pte Ltd, Singapore", year = "2012", title = "Software Engineer (Intern)"},
@@ -65,7 +66,7 @@ career = [
 # Your languages
 languageskills = [
   {language = "English", proficiency = "Proficient"},
-  {language = "Chinese", proficiency = "Proficient in Mandarin, Conversarional in Cantonese"},
+  {language = "Chinese", proficiency = "Native in Mandarin, Conversarional in Cantonese"},
   {language = "Malay", proficiency = "Elementary"}
 ]
 
