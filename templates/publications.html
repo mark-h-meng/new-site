@@ -3,7 +3,7 @@
 {% block content %}
 <style>
   .award-hover:hover {
-    color: yellow;
+    color:#FF0000;
   }
 </style>
 
@@ -71,8 +71,8 @@
           </a>
           {% endif %}  
           {% if page.extra.award %}
-          <a class="award-hover icon" href="{{ page.extra.award }}" target="_blank">
-            <i class="fa-solid fa-award" style="color:#666666;"></i>
+          <a class="icon" title="{{ page.extra.award }}" target="_blank">
+            <i class="award-hover fa-solid fa-award" style="color:#666666;"></i>
           </a>
           {% endif %}      
         </p> 
