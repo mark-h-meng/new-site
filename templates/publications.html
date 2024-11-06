@@ -21,14 +21,14 @@
     {% if loop.first %}
     <h4 class="title is-4">{{ year }}</h4>
     {% else %}
-            {% if year != "2022" and hide_earlier_year == false %}
-            <h4 class="title is-4 mt-5">{{ year }}</h4>
-            {% elif year != "2022" and hide_earlier_year == true %}
-            </br>
-            {% else %}
-            <h4 class="title is-4 mt-5">{{ year }} and earlier</h4>
-            {% set_global hide_earlier_year = true %}
-            {% endif %}
+    {% if year != "2022" and hide_earlier_year == false %}
+    <h4 class="title is-4 mt-5">{{ year }}</h4>
+    {% elif year != "2022" and hide_earlier_year == true %}
+    </br>
+    {% else %}
+    <h4 class="title is-4 mt-5">{{ year }} and earlier</h4>
+    {% set_global hide_earlier_year = true %}
+    {% endif %}
 
     {% endif %}
 
@@ -67,9 +67,10 @@
           </a>
           {% endif %}  
           {% if page.extra.award %}
-          <a class="icon" title="{{ page.extra.award }}">
-            <i class="award-hover fa-solid fa-award" style="color:#666666;"></i>
-          </a>
+          <a class="icon" style="color:#666666;"><i class="award-hover fa fa-solid fa-award" style="" title="{{ page.extra.award }}"></i></a>
+          <!--a class="icon">
+            <i class="award-hover fa-solid fa-award" style="color:#666666;" title="{{ page.extra.award }}"></i>
+          </a-->
           {% endif %}      
         </p> 
       </li>
