@@ -1,11 +1,7 @@
 {% extends "base.html" %}
 
 {% block content %}
-<style>
-  .award-hover:hover {
-    color:#FF0000;
-  }
-</style>
+
 
 <section class="section container">
   <h3 class="title is-3">Publications</h3>
@@ -71,7 +67,7 @@
           </a>
           {% endif %}  
           {% if page.extra.award %}
-          <a class="icon" title="{{ page.extra.award }}" target="_blank">
+          <a class="icon" title="{{ page.extra.award }}">
             <i class="award-hover fa-solid fa-award" style="color:#666666;"></i>
           </a>
           {% endif %}      
