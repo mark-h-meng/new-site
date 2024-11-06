@@ -1,6 +1,11 @@
 {% extends "base.html" %}
 
 {% block content %}
+<style>
+  .award-hover:hover {
+    color: yellow;
+  }
+</style>
 
 <section class="section container">
   <h3 class="title is-3">Publications</h3>
@@ -64,7 +69,12 @@
           <a class="icon" href="{{ page.extra.poster }}" target=”_blank”>
             <i class="fa-solid fa-scroll" style="color:#666666;"></i>
           </a>
-          {% endif %}        
+          {% endif %}  
+          {% if page.extra.poster %}
+          <a class="icon" href="{{ page.extra.award }}" target=”_blank”>
+            <i class="award-hover fa-solid fa-award" style="color:#666666;"></i>
+          </a>
+          {% endif %}      
         </p> 
       </li>
     {% endfor %}
