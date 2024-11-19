@@ -7,5 +7,6 @@ author = "Chuan Yan, Mark Huasong Meng, Liuhuo Wan, Tian Yang Ooi, Ruomai Ren, a
 target = "The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)."
 pdf = "attachments/yan2024exploring.pdf"
 doi = "https://doi.org/10.1145/3691620.3695510"
+slides = "slides/yan2024exploring.pdf"
 award = "ACM SIGSOFT Distinguished Paper Award (top 2.5%)"
 +++
