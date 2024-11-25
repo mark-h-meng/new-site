@@ -20,9 +20,15 @@
                             {% endfor %}
                             <div class="content">
                                 {% for icon in config.extra.social_icons %}
+                                {% if icon.icon != "" %}      
                                 <a class="icon is-large fa-xl" href="{{icon.link | safe }}" target=”_blank” >
                                     <i class="{{icon.icon_pack}} {{ icon.icon }}" style="color:#999999;"></i>
                                 </a>
+                                {% else %}
+                                <a class="icon is-large fa-xl" href="{{icon.link | safe }}" target=”_blank” >
+                                    <img src={{icon.src}} style="height:0.rem;width:2rem;display:block;"></img>
+                                </a>
+                                {% endif %}
                                 {% endfor %}
                             </div>
                         </div>
