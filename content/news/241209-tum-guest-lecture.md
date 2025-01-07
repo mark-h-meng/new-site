@@ -3,5 +3,5 @@ title = "I am honoured to be invited to give a guest lecture about software secu
 date = 2024-12-09
 
 [extra]
-category = "other"
+category = "talk"
 +++
